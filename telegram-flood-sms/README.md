@@ -9,7 +9,7 @@ pip install telethon
 ----
 endi 1s.py fileni edit qilasiz 
 ![image](https://github.com/user-attachments/assets/d5d4b3eb-ccc8-48c0-a163-fff81932e19e)
-mana shu joyga tel raqam yozing agar 2-3 ta tel raqam bolsa unda vergul bilan yozing misol uchun: +998900000000, +998901111111 
+mana shu joyga tel raqam yozing agar 2-3 ta tel raqam bolsa unda vergul bilan yozing misol uchun: +998940770416 
 
 ## **Dasturchi**
 
